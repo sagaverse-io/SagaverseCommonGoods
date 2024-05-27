@@ -1,5 +1,5 @@
 # Google Model Viewer Usage
-Hot to use the Google Model Viewer.
+How to use the Google Model Viewer.
 
 
 ```js
