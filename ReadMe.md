@@ -1,6 +1,7 @@
 # Sagaverse Common Goods
 
-This repository contain common goods Sagaverse have inscribed to the Bitcoin chain using Ordinals Protocol. This is a contribution to the Ordinals community.
+> [!NOTE]
+> This repository contain common goods Sagaverse have inscribed to the Bitcoin chain using Ordinals Protocol. This is a contribution to the Ordinals community.
 
 ## Inscriptions
 List of inscription.
